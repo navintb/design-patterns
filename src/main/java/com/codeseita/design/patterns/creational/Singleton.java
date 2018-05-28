@@ -1,4 +1,4 @@
-package com.codeseita.design.patterns;
+package com.codeseita.design.patterns.creational;
 
 
 /*
